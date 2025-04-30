@@ -1,5 +1,6 @@
 # About Me
 Hi I'm ItsKagu and i stream on twitch and code mods.
+I'm also making a game!
 >[!IMPORTANT]
 >I am not good at coding mods
 
