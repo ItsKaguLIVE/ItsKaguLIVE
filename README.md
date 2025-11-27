@@ -1,7 +1,7 @@
 # About Me
-Hi I'm ItsKagu and i stream on twitch and code mods.
+Hi I'm Kagu... Thats all
 >[!IMPORTANT]
->I am not good at coding mods
+>Learning Java!! 
 
 # Stats
 
