@@ -1,8 +1,5 @@
 # About Me
-Hi I'm Alexis. Projects I'm working on are:
-- Naming Conventions (Not Out Yet): [Modrinth](https://modrinth.com/mod/naming-conventions)
-
-All these projects are things that i want to change within minecraft for example The Harrows improving the end though Naming Conventions is just a nickname mod so yeah.
+Hi I'm Alexis. I stream on [Twitch](https://twitch.tv/lowkeyalexiss) and I code Minecraft Mods such as Abysall
 
 # Stats
 
