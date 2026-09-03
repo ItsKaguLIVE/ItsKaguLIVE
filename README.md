@@ -1,5 +1,5 @@
 # About Me
-Hi I'm Alexis. I stream on [Twitch](https://twitch.tv/lowkeyalexiss) and I code Minecraft Mods such as Abysall
+Hi I'm Alexis. I stream on [Twitch](https://twitch.tv/lowkeyalexiss) and I code Minecraft Mods.
 
 # Stats
 
