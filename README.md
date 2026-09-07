@@ -1,7 +1,2 @@
-# About Me
-Hi I'm Alexis. I stream on [Twitch](https://twitch.tv/lowkeyalexiss) and I code Minecraft Mods.
-
-# Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lowkeyalexiss&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=lowkeyalexiss&show_icons=true&include_all_commits=true&theme=radical)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lowkeyalexiss&theme=dark&timezone=GMT&background=2A3526" alt="GitHub Streak" /></a>
+<a href="https://discord.com/users/1360612838552502403"><img src="https://lanyard.cnrad.dev/api/1360612838552502403?bg=2A3526&hideTag=true" /></a>
